@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "921B889A-F695-47CF-B9FE-D4A9ABC6610A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE8300C9-E2F1-4C03-8C59-A980F73D5C37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B06D208-1A39-4EBD-9303-B1632B74D5E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "092601D7-A83A-4C56-8DA2-CB56DEED2AE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95055A41-465F-4C3B-98D5-C773AD85ECC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/Incident.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "Incident"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24E286D1-6F87-458B-AC25-B0ECF176AB44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "24E286D1-6F87-458B-AC25-B0ECF176AB44 - 715e2b62bbf53cf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.currCoordinate.getter : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "24E286D1-6F87-458B-AC25-B0ECF176AB44 - 55bad7e22152209b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.currCoordinate.setter : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "24E286D1-6F87-458B-AC25-B0ECF176AB44 - f9a421ba6dc2b3ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.currCoordinate.modify : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "24E286D1-6F87-458B-AC25-B0ECF176AB44 - 3f8acc1be30661da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.currCoordinate.modify : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "24E286D1-6F87-458B-AC25-B0ECF176AB44 - 568e5bee0ee2c67b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChicagoWatch.MapViewController"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "24E286D1-6F87-458B-AC25-B0ECF176AB44 - c3d3fefc7128cd00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChicagoWatch.MapViewController&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "214">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07B70793-2916-4BB8-9719-E78B25091B75"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "07B70793-2916-4BB8-9719-E78B25091B75 - 4b885e426fbac9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.incidents.getter : Swift.Array&lt;ChicagoWatch.Incident&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "07B70793-2916-4BB8-9719-E78B25091B75 - 649d4b2de999a4a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.incidents.setter : Swift.Array&lt;ChicagoWatch.Incident&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "07B70793-2916-4BB8-9719-E78B25091B75 - 38967701e8473e98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.incidents.modify : Swift.Array&lt;ChicagoWatch.Incident&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "07B70793-2916-4BB8-9719-E78B25091B75 - f4ab2f6d4f8118c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.incidents.modify : Swift.Array&lt;ChicagoWatch.Incident&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "07B70793-2916-4BB8-9719-E78B25091B75 - 568e5bee0ee2c67b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChicagoWatch.MapViewController"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "07B70793-2916-4BB8-9719-E78B25091B75 - c3d3fefc7128cd00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChicagoWatch.MapViewController&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "306">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CCA2B3C-2A97-48DC-A2A7-2464BEA9ECC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5CCA2B3C-2A97-48DC-A2A7-2464BEA9ECC2 - 19f0605f26fa780b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.locationLtdLng.getter : __C.CLLocation"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "5CCA2B3C-2A97-48DC-A2A7-2464BEA9ECC2 - 3110c7469c700197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.locationLtdLng.setter : __C.CLLocation"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "5CCA2B3C-2A97-48DC-A2A7-2464BEA9ECC2 - ae692b5dcf4b85a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.locationLtdLng.modify : __C.CLLocation"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "5CCA2B3C-2A97-48DC-A2A7-2464BEA9ECC2 - 38f2f01183898b10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.locationLtdLng.modify : __C.CLLocation with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "5CCA2B3C-2A97-48DC-A2A7-2464BEA9ECC2 - 568e5bee0ee2c67b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChicagoWatch.MapViewController"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "486">
+               </Location>
+               <Location
+                  uuid = "5CCA2B3C-2A97-48DC-A2A7-2464BEA9ECC2 - c3d3fefc7128cd00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChicagoWatch.MapViewController&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C6B6F40-1DF2-4ECF-BD1B-27A46DC39A7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2C6B6F40-1DF2-4ECF-BD1B-27A46DC39A7F - fa9a1c101c03180f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.distanceSpan.getter : Swift.Double"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "2C6B6F40-1DF2-4ECF-BD1B-27A46DC39A7F - 568e5bee0ee2c67b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChicagoWatch.MapViewController"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "634">
+               </Location>
+               <Location
+                  uuid = "2C6B6F40-1DF2-4ECF-BD1B-27A46DC39A7F - c3d3fefc7128cd00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChicagoWatch.MapViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChicagoWatch.MapViewController&gt;"
+                  moduleName = "ChicagoWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bc0nt13/Documents/Projects/ChicagoWatch/ChicagoWatch/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "566">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45F6F57C-06D1-4E60-B3AF-4D2A4F024369"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D30DE6B-98D3-4050-A130-8BBB30880A1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32443B59-DF76-4437-A5E4-F62764EC75FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96F4B90F-5154-4E47-96E9-38D90F8842DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "589E21F4-4D9A-443A-86AD-C64347FBCFFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DEA88FF-B690-414F-9834-AFD89C46E393"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6540BEE0-498F-42F9-ABF3-A4ADAF4B432E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17868908-39A7-4B73-A73D-ABADE7CDB2AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38CDAFF4-8B92-4599-A785-40C8B49B0221"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D4F90EC-7258-4ACE-8AFA-E8F82605E018"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19AF2386-0115-42AA-A2FA-8D9250A772C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChicagoWatch/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "createAnnotations(theLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
